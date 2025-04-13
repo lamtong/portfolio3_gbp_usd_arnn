@@ -1,5 +1,7 @@
 # Forecast the next-day GBP/USD exchange rate using an Autoregressive Artificial Neural Network (ARNN)
 
+*Tools Used: Python (Jupiter Notebook)*
+
 ## Introduction:
 The value of one pound sterling in US dollars is reported as a time series variable. The US/UK exchange rate data is downloaded from the Federal Reserve Economic Data website: https://fred.stlouisfed.org/series/DEXUSUK
 
